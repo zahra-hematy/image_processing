@@ -1,0 +1,5 @@
+The code that I have included extracts the color palette from the image in such a way that
+
+it first converts the image into P mode,
+
+that is, we convert the image into an indexed image and then extract its palettes.
